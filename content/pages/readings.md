@@ -13,32 +13,312 @@ Moore, David S. _The Basic Practice of Statistics_. 3rd ed. New York: W. H. Free
 
 Gilovich, Thomas. _How We Know What Isn't So_. New York: Free Press, 1993. ISBN: 0029117062.
 
-| ses # | TOPICS | READINGS |
-| --- | --- | --- |
-| L1 | Why Research in Psychology? | Begin reading Gilovich |
-| L2 | The Validity of Intuitions | Gilovich: Chapters 1-4 |
-| R1 | Idea Generation |  |
-| L3 | Perception |  |
-| R2 | Writing |  |
-| L4 | Memory | Gilovich: Chapter 5 |
-| R3 | Probability | Moore: Chapters 3, 9-12 |
-| L5 | Emotions and Self-control |  |
-| R4 | Survey Design | Gilovich: Chapters 6-7 |
-| R5 | Field Experiments | Gilovich: Chapters 10-11 |
-| L6 | Decision Making | Gilovich: Chapters 8-9 |
-|  | Midterm |  |
-| L7 | Behavioral Economics | Gilovich: Chapters 12-13 |
-| R6 | Descriptive Statistics | Moore: Chapters 1-2, 4 |
-| L8 | The Psychology of Money | Gilovich: Chapters 14-15 |
-| R7 | Experimental Design | Moore: Chapters 7-8 |
-| L9 | Labor and Compensation | Gilovich: Chapters 16-17 |
-| R8 | T Test and ANOVA | Moore: Chapters 14-17, 22 |
-| L10 | Groups (Norton) |  |
-| R9 | Rules for Presentations | Gilovich: Chapter 21 |
-| L11 | Negotiation (Curhan) | Gilovich: Chapters 18-20 |
-| R10-12 | Presentations |  |
-| L12 | Summary and Q&A |  |
-|  | Final Exam |  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ses #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Why Research in Psychology?
+{{< tdclose >}}
+{{< tdopen >}}
+Begin reading Gilovich
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+The Validity of Intuitions
+{{< tdclose >}}
+{{< tdopen >}}
+Gilovich: Chapters 1-4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Idea Generation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Perception
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Writing
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Memory
+{{< tdclose >}}
+{{< tdopen >}}
+Gilovich: Chapter 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Probability
+{{< tdclose >}}
+{{< tdopen >}}
+Moore: Chapters 3, 9-12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Emotions and Self-control
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+Survey Design
+{{< tdclose >}}
+{{< tdopen >}}
+Gilovich: Chapters 6-7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+Field Experiments
+{{< tdclose >}}
+{{< tdopen >}}
+Gilovich: Chapters 10-11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Decision Making
+{{< tdclose >}}
+{{< tdopen >}}
+Gilovich: Chapters 8-9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Behavioral Economics
+{{< tdclose >}}
+{{< tdopen >}}
+Gilovich: Chapters 12-13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R6
+{{< tdclose >}}
+{{< tdopen >}}
+Descriptive Statistics
+{{< tdclose >}}
+{{< tdopen >}}
+Moore: Chapters 1-2, 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+The Psychology of Money
+{{< tdclose >}}
+{{< tdopen >}}
+Gilovich: Chapters 14-15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R7
+{{< tdclose >}}
+{{< tdopen >}}
+Experimental Design
+{{< tdclose >}}
+{{< tdopen >}}
+Moore: Chapters 7-8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Labor and Compensation
+{{< tdclose >}}
+{{< tdopen >}}
+Gilovich: Chapters 16-17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R8
+{{< tdclose >}}
+{{< tdopen >}}
+T Test and ANOVA
+{{< tdclose >}}
+{{< tdopen >}}
+Moore: Chapters 14-17, 22
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Groups (Norton)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R9
+{{< tdclose >}}
+{{< tdopen >}}
+Rules for Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Gilovich: Chapter 21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Negotiation (Curhan)
+{{< tdclose >}}
+{{< tdopen >}}
+Gilovich: Chapters 18-20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R10-12
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Summary and Q&A
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Additional Readings
 -------------------
