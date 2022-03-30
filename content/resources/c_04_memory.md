@@ -8,6 +8,7 @@ description: 'Lecture presentation covering the following topics: A general fram
   visualizing health), and summary.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-301-managerial-psychology-laboratory-fall-2004/7b219896919f5546109bbbefcc6180f0_c_04_memory.pdf
 file_type: application/pdf
+parent_uid: 15cc35b4-b2d5-b354-dbf6-af22ee6876bc
 resourcetype: Document
 title: c_04_memory.pdf
 uid: 7b219896-919f-5546-109b-bbefcc6180f0

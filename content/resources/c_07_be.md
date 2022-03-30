@@ -7,6 +7,7 @@ description: 'Lecture presentation covering the following topics: Free lunches, 
   losses are steeper, stock market, and the probability weighting function.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-301-managerial-psychology-laboratory-fall-2004/4704a3bbe21558acea6bc2ca784993cd_C_07_BE.pdf
 file_type: application/pdf
+parent_uid: 15cc35b4-b2d5-b354-dbf6-af22ee6876bc
 resourcetype: Document
 title: C_07_BE.pdf
 uid: 4704a3bb-e215-58ac-ea6b-c2ca784993cd
